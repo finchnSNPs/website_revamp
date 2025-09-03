@@ -4,11 +4,11 @@ Before you can use Hyak, you must meet a few preerequisites related to using the
 
 ## Getting a terminal on your local computer
 
-You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [https://learn.microsoft.com/en-us/windows/wsl/](https://learn.microsoft.com/en-us/windows/wsl/) to install.
+You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [<ins>**HERE**</ins>](https://learn.microsoft.com/en-us/windows/wsl/) to install.
 
 ## Hyak Basics
 
-Follow this [[link]](https://hyak.uw.edu/docs/hyak101/basics/syllabus) to complete the Hyak Basics Tutorial which includes basic Linux fundamentals tailored to Hyak users.
+Follow this [<ins>**link**</ins>](https://hyak.uw.edu/docs/hyak101/basics/syllabus) to complete the Hyak Basics Tutorial which includes basic Linux fundamentals tailored to Hyak users.
 
 ## Editing text files
 
@@ -16,11 +16,11 @@ Most jobs you run on Hyak will involve editing text files with configuration inf
 
 On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks. We suggest picking one and becoming comfortable with it.
 
-[[Intro to Vim and Emacs]](https://linuxjourney.com/lesson/regular-expressions-regex)
+[<ins>**Intro to Vim and Emacs**</ins>](https://linuxjourney.com/lesson/regular-expressions-regex)
 
-[[Intro to Nano]](https://linuxize.com/post/how-to-use-nano-text-editor/)
+[<ins>**Intro to Nano**</ins>](https://linuxize.com/post/how-to-use-nano-text-editor/)
 
-When working with files, you may also need to modify [[file permissions]](https://linuxjourney.com/lesson/file-permissions).
+When working with files, you may also need to modify [<ins>**file permissions**</ins>](https://linuxjourney.com/lesson/file-permissions).
 
 <!-- ##Accessing remote machines with SSH -->
 
